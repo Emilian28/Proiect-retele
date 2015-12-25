@@ -1,1 +1,1 @@
-# SINCRON
+# SINCRONIC
